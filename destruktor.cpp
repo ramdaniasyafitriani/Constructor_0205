@@ -39,3 +39,5 @@ void angka::cetakData()
         cout << i << " = " << arr[i] << endl;
     }
 }
+
+void angka::isiData()
